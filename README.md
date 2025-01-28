@@ -1,1 +1,1 @@
-# BitZap Media Kit
+# Kit de medios de BitZap
